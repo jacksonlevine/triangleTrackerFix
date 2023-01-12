@@ -1,0 +1,23 @@
+#theAnswer {
+  text-align: center;
+}
+
+.answerSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.theForm {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  display:flex;
+  justify-content: space-around;
+  font-size:300%;
+}
